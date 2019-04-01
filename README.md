@@ -6,3 +6,11 @@ types of crime and crime rate,
 crime rate in different years and 
 time when crimes occur more frequently.
 
+Extracted data using API, CSV Format and Excel. 
+
+Technologies and tools used:
+
+Python libraries like Pandas, Numpy, Matplotlib
+Jupyter notebook
+Visual studio code
+
